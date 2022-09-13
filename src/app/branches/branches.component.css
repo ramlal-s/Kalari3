@@ -437,3 +437,6 @@ section.bgContactClr.section_padding_bottom_65.bgred {
 .text-black {
     color: #000 !important;
 }
+.bs-w{
+    box-shadow: 0 5px 15px rgb(255 255 255 / 56%), 0 3px 6px rgb(117 108 254 / 12%);
+}
