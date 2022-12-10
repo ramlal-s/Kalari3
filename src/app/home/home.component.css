@@ -73,28 +73,28 @@
     background-image: url(../../assets/images/marma.jpg);
     background-repeat: no-repeat;
     background-size: auto;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 .bg-yellow {
     background-image: url(../../assets/images/kalari-training.jpg);
     background-repeat: no-repeat;
     background-size: auto;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 .bg-black {
     background-image: url(../../assets/images/weapon-training.jpg);
     background-repeat: no-repeat;
     background-size: auto;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 .bg-workshop {
     background-image: url(../../assets/images/kalari-workshop.png);
     background-repeat: no-repeat;
     background-size: auto;
-    background-size: 100% auto;
+    background-size: 100% 100%;
 }
 
 .card-inside {
@@ -131,10 +131,10 @@
 .container {
     display: flex;
     width: 100%;
-    min-height: 100vh;
+   /*  min-height: 100vh; */
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     padding: 40px;
 }
 
@@ -321,12 +321,12 @@ p {
     font-size: 20px;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 4.8px;
+    /* letter-spacing: -0.2px; */
     color: #fff;
-    background-color: #1a1a1a;
-    padding: 0 0 0 20px;
+    background-color: #383838;
+    padding: 0 0 0 19px;
     border-radius: 10px 0 0 10px;
-    max-width: 95px;
+    max-width: 69px;
 }
 
 .aux-head-before {
@@ -343,7 +343,7 @@ p {
 
 .aux-modern-heading-primary {
     font-family: raleway, Sans-serif;
-    font-size: 55px;
+    font-size: 40px;
     font-weight: 600;
     text-transform: capitalize;
     line-height: 1.2em;
@@ -393,7 +393,7 @@ section.aux-widget-modern-heading {
 
 .aux-icon-list-items {
     display: flex;
-    justify-content: center;
+   /*  justify-content: center; */
     text-align: center;
 }
 
@@ -431,7 +431,7 @@ illustration 1 (2)
 
 .sb-illustration-1-2 {
     position: relative;
-    padding-bottom: 135%;
+    padding-bottom: 110%;
     width: 100%;
     float: right;
     z-index: 0;

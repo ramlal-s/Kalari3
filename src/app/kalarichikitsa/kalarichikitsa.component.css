@@ -397,7 +397,7 @@ label {
     background: #69010b;
     color: #fff;
     padding: 10px 20px;
-    border: 1px solid #b3b2b236;
+    border: 2px solid #ccc;
     border-radius: 20px;
     margin: 0
 }
@@ -413,6 +413,8 @@ label {
     border-radius: 10px;
     font-size: 15px;
     box-shadow: 2px 5px 70px -20px rgb(0 0 0 / 63%);
+    height: 250px;
+    overflow: auto;
 }
 
 section.bgContactClr.section_padding_bottom_65.bgred {

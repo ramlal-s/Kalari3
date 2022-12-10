@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import {HashLocationStrategy,LocationStrategy} from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -37,7 +38,7 @@ import { KalaripatutrainingComponent } from './kalaripatuTraining/kalaripatutrai
     BrowserAnimationsModule,
     NgxGalleryModule
   ],
-  providers: [],
+  providers: [{provide:LocationStrategy,useClass:HashLocationStrategy}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

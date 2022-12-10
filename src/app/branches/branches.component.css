@@ -301,9 +301,14 @@ a {
     border: none !important;
     box-shadow: 0 5px 15px rgb(57 98 254 / 2%), 0 3px 6px rgb(117 108 254 / 12%);
 }
+.scrollCard:hover{
+    box-shadow: 0 5px 15px rgb(234 185 39 / 35%), 0 3px 6px rgb(117 108 254 / 12%);
+    cursor: pointer;
+}
+
 .card-o {
     margin-bottom: 0px;
-    border: none !important;
+    border: 1px solid #ccc;
     box-shadow: 0 5px 15px rgb(57 98 254 / 2%), 0 3px 6px rgb(117 108 254 / 12%);
 }
 

@@ -77,3 +77,29 @@ svg {
 .txt-grey {
   color: #ccc;
 }
+body::-webkit-scrollbar {
+  width: 4px;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  /* outline: 1px solid slategrey; */
+}
+
+
+.treatcards::-webkit-scrollbar {
+  width: 1px;
+}
+ 
+.treatcards::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.treatcards::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  /* outline: 1px solid slategrey; */
+}
