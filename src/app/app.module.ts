@@ -36,7 +36,7 @@ import { KalaripatutrainingComponent } from './kalaripatuTraining/kalaripatutrai
     CarouselModule ,
     AppRoutingModule,
     BrowserAnimationsModule,
-    NgxGalleryModule
+    NgxGalleryModule,
   ],
   providers: [{provide:LocationStrategy,useClass:HashLocationStrategy}],
   bootstrap: [AppComponent]

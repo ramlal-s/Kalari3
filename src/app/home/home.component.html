@@ -121,6 +121,9 @@
     </div>
   </div>
 </section>
+<div class="container">
+  <app-gallery></app-gallery>
+</div>
 <section class="slider-section">
   <div class="row product-slider">
     <div class="col-md-4">
@@ -134,17 +137,17 @@
           </h2>
           <div class="aux-modern-heading-description txt-white">
             <p>
-              But I must explain to you how all this mistaken idea of denouncing
-              pleasure and praising.
+              <!--  But I must explain to you how all this mistaken idea of denouncing
+              pleasure and praising. -->
             </p>
           </div>
         </div>
       </section>
     </div>
     <div class="col-md-8">
-      <div>
+      <div class="row">
         <owl-carousel-o [options]="customOptions">
-          <ng-template carouselSlide>
+          <ng-template carouselSlide class="col-xs-6">
             <div class="card card-h bg-yellow txt-white">
               <section class="card-inside">
                 <div class="row p-25">
@@ -152,10 +155,10 @@
                     <h3>Kalari Training</h3>
                     <h6 class="txt-white">Self Defence Classes</h6>
                     <div class="b-read txt-white">
-                      <a [routerLink]="['/kalaritraining']">
-                        <button class="btn btn-info">Read More</button></a
-                      >
-                      <!--  <a href="/kalarichikitsa">Read More</a> -->
+                      <a class="aRouterLink" [routerLink]="['/kalaritraining']">
+                        <button class="btn btn-info">Read More</button>
+                      </a>
+                      <!--  <a  onclick="window.location.href = '#/kalarichikitsa'">Read More</a>   -->
                     </div>
                   </div>
                 </div>
@@ -163,7 +166,7 @@
               </section>
             </div>
           </ng-template>
-          <ng-template carouselSlide>
+          <ng-template carouselSlide class="col-xs-6">
             <div class="card card-h bg-black txt-white">
               <section class="card-inside">
                 <div class="row p-25">
@@ -171,7 +174,7 @@
                     <h3>Weapon Training</h3>
                     <h6 class="txt-grey">Special Weapon Training Program</h6>
                     <div class="b-read txt-white">
-                      <a [routerLink]="['/kalaritraining']">
+                      <a class="aRouterLink" [routerLink]="['/kalaritraining']">
                         <button class="btn btn-info">Read More</button></a
                       >
                       <!--  <a href="/kalarichikitsa">Read More</a> -->
@@ -182,7 +185,7 @@
               </section>
             </div>
           </ng-template>
-          <ng-template carouselSlide>
+          <ng-template carouselSlide class="col-xs-6">
             <div class="card card-h bg-darkPink txt-white">
               <section class="card-inside">
                 <div class="row p-25">
@@ -192,7 +195,7 @@
                       More than 6 clinics available in india
                     </h6>
                     <div class="b-read txt-white">
-                      <a [routerLink]="['/kalarichikitsa']">
+                      <a class="aRouterLink" [routerLink]="['/kalarichikitsa']">
                         <button class="btn btn-info">Read More</button></a
                       >
                     </div>
@@ -202,7 +205,7 @@
               </section>
             </div>
           </ng-template>
-          <ng-template carouselSlide>
+          <ng-template carouselSlide class="col-xs-6">
             <div class="card card-h bg-black txt-white">
               <section class="card-inside">
                 <div class="row p-25">
@@ -210,7 +213,7 @@
                     <h3>Workshop</h3>
                     <h6 class="txt-grey">Kalari & Marma Chikitsa</h6>
                     <div class="b-read txt-white">
-                      <a [routerLink]="['/kalarichikitsa']">
+                      <a class="aRouterLink" [routerLink]="['/kalarichikitsa']">
                         <button class="btn btn-info">Read More</button></a
                       >
                     </div>
@@ -226,16 +229,42 @@
   </div>
 </section>
 
-<div class="videosection">
-  <iframe
-    width="900"
-    height="500"
-    src="https://www.youtube.com/embed/VyyIFRccCzk"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  ></iframe>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 mr-1">
+      <iframe
+        width="100%"
+        height="315"
+        src="https://www.youtube.com/embed/VyyIFRccCzk"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <div class="col-md-6 mr-1">
+      <iframe
+        width="100%"
+        height="315"
+        src="https://www.youtube.com/embed/Wf8X96gguh4"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <div class="col-md-6 mr-1">
+      <iframe
+        width="100%"
+        height="315"
+        src="https://www.youtube.com/embed/Wf8X96gguh4"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
 </div>
 <section>
   <div class="container">

@@ -123,6 +123,7 @@
 .b-read {
     bottom: 50px;
     position: absolute;
+    z-index: 1;
 }
 
 /****************Slider CSS***************/
@@ -666,4 +667,7 @@ illustration 1 (2)
     display: flex;
     justify-content: center;
     padding: 50px;
+}
+.aRouterLink{
+position: initial;
 }

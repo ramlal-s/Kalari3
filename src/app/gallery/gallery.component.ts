@@ -16,8 +16,8 @@ export class GalleryComponent implements OnInit {
     this.galleryOptions = [
       { "imageAutoPlay": true, "imageAutoPlayPauseOnHover": true, "previewAutoPlay": true, "previewAutoPlayPauseOnHover": true },
       {
-        width: '600px',
-        height: '400px',
+        width: '800px',
+        height: '500px',
         thumbnailsColumns: 4,
         imageAnimation: NgxGalleryAnimation.Slide
       },
@@ -40,28 +40,65 @@ export class GalleryComponent implements OnInit {
 
     this.galleryImages = [
       {
-        small: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg',
-        medium: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg',
-        big: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg'
+        small: '../../assets/images/1.jpeg',
+        medium: '../../assets/images/1.jpeg',
+        big: '../../assets/images/1.jpeg'
       },
       {
-        small: 'https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg',
-        medium: 'https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg',
-        big: 'https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg'    },
-      {
-        small: 'https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_960_720.jpg',
-        medium: 'https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_960_720.jpg',
-        big: 'https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_960_720.jpg'
-      },{
-        small: 'https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666_960_720.jpg',
-        medium: 'https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666_960_720.jpg',
-        big: 'https://cdn.pixabay.com/photo/2016/01/08/11/57/butterflies-1127666_960_720.jpg'
+        small: '../../assets/images/2.jpeg',
+        medium: '../../assets/images/2.jpeg',
+        big: '../../assets/images/2.jpeg'
       },
       {
-        small: 'https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_960_720.jpg',
-        medium: 'https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_960_720.jpg',
-        big: 'https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_960_720.jpg'
-      }
+        small: '../../assets/images/3.jpeg',
+        medium: '../../assets/images/3.jpeg',
+        big: '../../assets/images/3.jpeg'
+      },
+      {
+        small: '../../assets/images/4.jpeg',
+        medium: '../../assets/images/4.jpeg',
+        big: '../../assets/images/4.jpeg'
+      },
+      {
+        small: '../../assets/images/5.jpeg',
+        medium: '../../assets/images/5.jpeg',
+        big: '../../assets/images/5.jpeg'
+      },
+      {
+        small: '../../assets/images/6.jpeg',
+        medium: '../../assets/images/6.jpeg',
+        big: '../../assets/images/6.jpeg'
+      },
+      {
+        small: '../../assets/images/7.jpeg',
+        medium: '../../assets/images/7.jpeg',
+        big: '../../assets/images/7.jpeg'
+      },
+      {
+        small: '../../assets/images/8.jpeg',
+        medium: '../../assets/images/8.jpeg',
+        big: '../../assets/images/8.jpeg'
+      },
+      {
+        small: '../../assets/images/9.jpeg',
+        medium: '../../assets/images/9.jpeg',
+        big: '../../assets/images/9.jpeg'
+      },
+      {
+        small: '../../assets/images/10.jpeg',
+        medium: '../../assets/images/10.jpeg',
+        big: '../../assets/images/10.jpeg'
+      },
+      {
+        small: '../../assets/images/11.jpeg',
+        medium: '../../assets/images/11.jpeg',
+        big: '../../assets/images/11.jpeg'
+      },
+      {
+        small: '../../assets/images/12.jpeg',
+        medium: '../../assets/images/12.jpeg',
+        big: '../../assets/images/12.jpeg'
+      },
     ];
   }
 
