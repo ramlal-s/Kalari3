@@ -99,6 +99,56 @@ export class GalleryComponent implements OnInit {
         medium: '../../assets/images/12.jpeg',
         big: '../../assets/images/12.jpeg'
       },
+      {
+        small: '../../assets/images/13.jpeg',
+        medium: '../../assets/images/13.jpeg',
+        big: '../../assets/images/13.jpeg'
+      },
+      {
+        small: '../../assets/images/14.jpeg',
+        medium: '../../assets/images/14.jpeg',
+        big: '../../assets/images/14.jpeg'
+      },
+      {
+        small: '../../assets/images/15.jpeg',
+        medium: '../../assets/images/15.jpeg',
+        big: '../../assets/images/15.jpeg'
+      },
+      {
+        small: '../../assets/images/16.jpeg',
+        medium: '../../assets/images/16.jpeg',
+        big: '../../assets/images/16.jpeg'
+      },
+      {
+        small: '../../assets/images/17.jpeg',
+        medium: '../../assets/images/17.jpeg',
+        big: '../../assets/images/17.jpeg'
+      },
+      {
+        small: '../../assets/images/18.jpeg',
+        medium: '../../assets/images/18.jpeg',
+        big: '../../assets/images/18.jpeg'
+      },
+      {
+        small: '../../assets/images/19.jpeg',
+        medium: '../../assets/images/19.jpeg',
+        big: '../../assets/images/19.jpeg'
+      },
+      {
+        small: '../../assets/images/20.jpeg',
+        medium: '../../assets/images/20.jpeg',
+        big: '../../assets/images/20.jpeg'
+      },
+      {
+        small: '../../assets/images/21.jpeg',
+        medium: '../../assets/images/21.jpeg',
+        big: '../../assets/images/21.jpeg'
+      },
+      {
+        small: '../../assets/images/22.jpeg',
+        medium: '../../assets/images/22.jpeg',
+        big: '../../assets/images/22.jpeg'
+      },
     ];
   }
 
