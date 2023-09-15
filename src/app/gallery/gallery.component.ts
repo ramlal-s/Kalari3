@@ -149,6 +149,86 @@ export class GalleryComponent implements OnInit {
         medium: '../../assets/images/22.jpeg',
         big: '../../assets/images/22.jpeg'
       },
+      {
+        small: '../../assets/images/23.jpeg',
+        medium: '../../assets/images/23.jpeg',
+        big: '../../assets/images/23.jpeg'
+      },
+      {
+        small: '../../assets/images/24.jpeg',
+        medium: '../../assets/images/24.jpeg',
+        big: '../../assets/images/24.jpeg'
+      },
+      {
+        small: '../../assets/images/25.jpeg',
+        medium: '../../assets/images/25.jpeg',
+        big: '../../assets/images/25.jpeg'
+      },
+      {
+        small: '../../assets/images/26.jpeg',
+        medium: '../../assets/images/26.jpeg',
+        big: '../../assets/images/26.jpeg'
+      },
+      {
+        small: '../../assets/images/27.jpeg',
+        medium: '../../assets/images/27.jpeg',
+        big: '../../assets/images/27.jpeg'
+      },
+      {
+        small: '../../assets/images/28.jpeg',
+        medium: '../../assets/images/28.jpeg',
+        big: '../../assets/images/28.jpeg'
+      },
+      {
+        small: '../../assets/images/29.jpeg',
+        medium: '../../assets/images/29.jpeg',
+        big: '../../assets/images/29.jpeg'
+      },
+      {
+        small: '../../assets/images/30.jpeg',
+        medium: '../../assets/images/30.jpeg',
+        big: '../../assets/images/30.jpeg'
+      },{
+        small: '../../assets/images/31.jpeg',
+        medium: '../../assets/images/31.jpeg',
+        big: '../../assets/images/31.jpeg'
+      },{
+        small: '../../assets/images/32.jpeg',
+        medium: '../../assets/images/32.jpeg',
+        big: '../../assets/images/32.jpeg'
+      },{
+        small: '../../assets/images/33.jpeg',
+        medium: '../../assets/images/33.jpeg',
+        big: '../../assets/images/33.jpeg'
+      },{
+        small: '../../assets/images/34.jpeg',
+        medium: '../../assets/images/34.jpeg',
+        big: '../../assets/images/34.jpeg'
+      },{
+        small: '../../assets/images/35.jpeg',
+        medium: '../../assets/images/35.jpeg',
+        big: '../../assets/images/35.jpeg'
+      },{
+        small: '../../assets/images/36.jpeg',
+        medium: '../../assets/images/36.jpeg',
+        big: '../../assets/images/36.jpeg'
+      },{
+        small: '../../assets/images/37.jpeg',
+        medium: '../../assets/images/37.jpeg',
+        big: '../../assets/images/37.jpeg'
+      },{
+        small: '../../assets/images/38.jpeg',
+        medium: '../../assets/images/38.jpeg',
+        big: '../../assets/images/38.jpeg'
+      },{
+        small: '../../assets/images/39.jpeg',
+        medium: '../../assets/images/39.jpeg',
+        big: '../../assets/images/39.jpeg'
+      },{
+        small: '../../assets/images/40.jpeg',
+        medium: '../../assets/images/40.jpeg',
+        big: '../../assets/images/40.jpeg'
+      },
     ];
   }
 
