@@ -150,84 +150,84 @@ export class GalleryComponent implements OnInit {
         big: '../../assets/images/22.jpeg'
       },
       {
-        small: '../../assets/images/23.jpeg',
-        medium: '../../assets/images/23.jpeg',
-        big: '../../assets/images/23.jpeg'
+        small: '../../assets/images/23.JPG',
+        medium: '../../assets/images/23.JPG',
+        big: '../../assets/images/23.JPG'
       },
       {
-        small: '../../assets/images/24.jpeg',
-        medium: '../../assets/images/24.jpeg',
-        big: '../../assets/images/24.jpeg'
+        small: '../../assets/images/24.JPG',
+        medium: '../../assets/images/24.JPG',
+        big: '../../assets/images/24.JPG'
       },
       {
-        small: '../../assets/images/25.jpeg',
-        medium: '../../assets/images/25.jpeg',
-        big: '../../assets/images/25.jpeg'
+        small: '../../assets/images/25.JPG',
+        medium: '../../assets/images/25.JPG',
+        big: '../../assets/images/25.JPG'
       },
       {
-        small: '../../assets/images/26.jpeg',
-        medium: '../../assets/images/26.jpeg',
-        big: '../../assets/images/26.jpeg'
+        small: '../../assets/images/26.JPG',
+        medium: '../../assets/images/26.JPG',
+        big: '../../assets/images/26.JPG'
       },
       {
-        small: '../../assets/images/27.jpeg',
-        medium: '../../assets/images/27.jpeg',
-        big: '../../assets/images/27.jpeg'
+        small: '../../assets/images/27.JPG',
+        medium: '../../assets/images/27.JPG',
+        big: '../../assets/images/27.JPG'
       },
       {
-        small: '../../assets/images/28.jpeg',
-        medium: '../../assets/images/28.jpeg',
-        big: '../../assets/images/28.jpeg'
+        small: '../../assets/images/28.JPG',
+        medium: '../../assets/images/28.JPG',
+        big: '../../assets/images/28.JPG'
       },
       {
-        small: '../../assets/images/29.jpeg',
-        medium: '../../assets/images/29.jpeg',
-        big: '../../assets/images/29.jpeg'
+        small: '../../assets/images/29.JPG',
+        medium: '../../assets/images/29.JPG',
+        big: '../../assets/images/29.JPG'
       },
       {
-        small: '../../assets/images/30.jpeg',
-        medium: '../../assets/images/30.jpeg',
-        big: '../../assets/images/30.jpeg'
+        small: '../../assets/images/30.JPG',
+        medium: '../../assets/images/30.JPG',
+        big: '../../assets/images/30.JPG'
       },{
-        small: '../../assets/images/31.jpeg',
-        medium: '../../assets/images/31.jpeg',
-        big: '../../assets/images/31.jpeg'
+        small: '../../assets/images/31.JPG',
+        medium: '../../assets/images/31.JPG',
+        big: '../../assets/images/31.JPG'
       },{
-        small: '../../assets/images/32.jpeg',
-        medium: '../../assets/images/32.jpeg',
-        big: '../../assets/images/32.jpeg'
+        small: '../../assets/images/32.JPG',
+        medium: '../../assets/images/32.JPG',
+        big: '../../assets/images/32.JPG'
       },{
-        small: '../../assets/images/33.jpeg',
-        medium: '../../assets/images/33.jpeg',
-        big: '../../assets/images/33.jpeg'
+        small: '../../assets/images/33.JPG',
+        medium: '../../assets/images/33.JPG',
+        big: '../../assets/images/33.JPG'
       },{
-        small: '../../assets/images/34.jpeg',
-        medium: '../../assets/images/34.jpeg',
-        big: '../../assets/images/34.jpeg'
+        small: '../../assets/images/34.JPG',
+        medium: '../../assets/images/34.JPG',
+        big: '../../assets/images/34.JPG'
       },{
-        small: '../../assets/images/35.jpeg',
-        medium: '../../assets/images/35.jpeg',
-        big: '../../assets/images/35.jpeg'
+        small: '../../assets/images/35.JPG',
+        medium: '../../assets/images/35.JPG',
+        big: '../../assets/images/35.JPG'
       },{
-        small: '../../assets/images/36.jpeg',
-        medium: '../../assets/images/36.jpeg',
-        big: '../../assets/images/36.jpeg'
+        small: '../../assets/images/36.JPG',
+        medium: '../../assets/images/36.JPG',
+        big: '../../assets/images/36.JPG'
       },{
-        small: '../../assets/images/37.jpeg',
-        medium: '../../assets/images/37.jpeg',
-        big: '../../assets/images/37.jpeg'
+        small: '../../assets/images/37.JPG',
+        medium: '../../assets/images/37.JPG',
+        big: '../../assets/images/37.JPG'
       },{
-        small: '../../assets/images/38.jpeg',
-        medium: '../../assets/images/38.jpeg',
-        big: '../../assets/images/38.jpeg'
+        small: '../../assets/images/38.JPG',
+        medium: '../../assets/images/38.JPG',
+        big: '../../assets/images/38.JPG'
       },{
-        small: '../../assets/images/39.jpeg',
-        medium: '../../assets/images/39.jpeg',
-        big: '../../assets/images/39.jpeg'
+        small: '../../assets/images/39.JPG',
+        medium: '../../assets/images/39.JPG',
+        big: '../../assets/images/39.JPG'
       },{
-        small: '../../assets/images/40.jpeg',
-        medium: '../../assets/images/40.jpeg',
-        big: '../../assets/images/40.jpeg'
+        small: '../../assets/images/40.JPG',
+        medium: '../../assets/images/40.JPG',
+        big: '../../assets/images/40.JPG'
       },
     ];
   }
